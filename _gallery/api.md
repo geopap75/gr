@@ -1,7 +1,9 @@
 ---
 author: geopap75
 image_url: https://github.com/geopap75/pibookgr/blob/gh-pages/images/api.jpg
-caption: Ο Jacob Goldman (18 Ιουλίου 1921 - 20 Δεκεμβρίου 2011) ήταν Αμερικανός φυσικός και πρώην επικεφαλής επιστήμονας της Xerox Corporation η οποία έχει παραγάγει πολλές σημαντικές ιδέες στο σύγχρονο υπολογισμό(computing).
+caption: To Application programming interface(API) είναι ένα πρωτόκολλο επικοινωνίας μεταξύ του πελάτη(client) 
+και ενός εξυπηρετητή(server) με σκοπό την απλοποίηση της δημιουργίας λογισμικού από την πλετυρά του πελάτη(client-side
+software). 
 title: API
 categories: Communication protocol
 tags: web-based system, operating system, database system, computer hardware
