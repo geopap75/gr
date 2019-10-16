@@ -6,7 +6,7 @@ caption: "Δημιουργός του sandbox βιντεοπαιχνιδιού M
 categories: biography
 Πηγή: https://en.wikipedia.org/wiki/Markus_Persson
 tags: 
--Minecraft
--Mojang
--Sandbox game
+- Minecraft
+- Mojang
+- Sandbox game
 ---
